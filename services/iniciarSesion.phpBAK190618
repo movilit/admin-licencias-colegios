@@ -1,0 +1,38 @@
+<?php
+
+include_once 'db_functions.php';
+include_once 'config.php';
+
+$db= new db_functions;
+
+	$usuario_seg= $db->LimpiarCadena($_POST["usuario"]);
+	$pass_seg= $db->LimpiarCadena($_POST["pass"]);
+
+	$login = $db->loguearAdmin($usuario_seg,$pass_seg);
+
+	$loginFilas = mysqli_num_rows($login);
+
+	
+	//echo $loginFilas;
+
+		if($loginFilas == 1){
+
+			//echo "hola";
+
+			ini_set("session.cookie_lifetime","300");
+			ini_set("session.gc_maxlifetime","300");
+
+			session_start();
+			$_SESSION["admin"] = $usuario_seg;
+
+			//header("location:../pages/index.php"); 
+			echo "<script language='javascript'>window.location.href = '../pages/index.php';</script>";
+
+		}else{
+			echo "<script language='javascript'>window.location.href = '../pages/login.php?falso=si';</script>";
+			//header("location:../pages/login.php?falso=si"); 
+		}
+	
+
+
+?>

@@ -1,0 +1,2 @@
+[16-Jan-2017 03:58:56 CST6CDT] PHP Fatal error:  Cannot redeclare DB_Functions::seleccionarLicenciaIdCentro() in /home/themaga4/public_html/admin/services/db_functions.php on line 518
+[24-Mar-2017 06:36:51 CST6CDT] PHP Fatal error:  Class 'db_functions' not found in /home/themaga4/public_html/admin/pages/listaProfesoresCentro.php on line 15

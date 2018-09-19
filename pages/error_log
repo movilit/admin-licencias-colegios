@@ -1,0 +1,209 @@
+[28-May-2018 13:20:10 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 434
+[28-May-2018 13:20:25 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING), expecting ',' or ')' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 434
+[28-May-2018 14:03:39 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php on line 129
+[28-May-2018 14:06:00 UTC] PHP Parse error:  syntax error, unexpected '$_GET' (T_VARIABLE) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php on line 129
+[28-May-2018 14:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB_Functions::seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 103
+[28-May-2018 14:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB_Functions::seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php:103
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 103
+[28-May-2018 14:42:29 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 104
+[28-May-2018 14:42:32 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 104
+[28-May-2018 14:42:57 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 104
+[28-May-2018 14:44:52 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 104
+[28-May-2018 14:54:05 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 97
+[28-May-2018 14:54:32 UTC] PHP Parse error:  syntax error, unexpected ''</td>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 104
+[28-May-2018 14:54:36 UTC] PHP Parse error:  syntax error, unexpected ''</td>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 104
+[28-May-2018 14:56:53 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/profesores.php on line 97
+[29-May-2018 11:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 11:37:12 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 11:37:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 11:37:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 11:39:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 11:39:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 13:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 13:32:33 UTC] PHP Parse error:  syntax error, unexpected 'seleccionarNombreCentro' (T_STRING), expecting ',' or ';' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 29
+[29-May-2018 13:32:35 UTC] PHP Parse error:  syntax error, unexpected 'seleccionarNombreCentro' (T_STRING), expecting ',' or ';' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 29
+[29-May-2018 13:33:24 UTC] PHP Parse error:  syntax error, unexpected 'seleccionarNombreCentro' (T_STRING), expecting ',' or ';' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 29
+[29-May-2018 13:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 29
+[29-May-2018 13:34:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 29
+[29-May-2018 13:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 13:53:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 13:53:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 13:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function seleccionarNombreCentro() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 24
+[29-May-2018 14:02:41 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 30
+[29-May-2018 14:02:48 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php on line 30
+[29-May-2018 14:05:09 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 14:05:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 14:09:59 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 14:10:05 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[29-May-2018 14:10:07 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[30-May-2018 09:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[30-May-2018 09:44:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('1')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[30-May-2018 09:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:36
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/pruebaMostrarCentro.php(25): DB_Functions->seleccionarNombreCentro('300')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 36
+[20-Jun-2018 08:51:19 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 8
+[20-Jun-2018 08:55:41 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 8
+[20-Jun-2018 08:56:11 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 8
+[20-Jun-2018 09:02:41 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 235
+[20-Jun-2018 09:02:57 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 235
+[20-Jun-2018 09:03:07 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 235
+[20-Jun-2018 09:03:11 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 235
+[20-Jun-2018 09:03:25 UTC] PHP Parse error:  syntax error, unexpected '`' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 235
+[20-Jun-2018 09:21:23 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 5
+[20-Jun-2018 09:23:52 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 4
+[20-Jun-2018 09:23:55 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 4
+[20-Jun-2018 09:29:07 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 5
+[20-Jun-2018 09:29:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 5
+[20-Jun-2018 09:29:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 5
+[20-Jun-2018 09:38:59 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 6
+[20-Jun-2018 09:41:52 UTC] PHP Parse error:  syntax error, unexpected ']', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paices.php on line 6
+[29-Jun-2018 08:47:08 UTC] PHP Fatal error:  Uncaught Error: Class 'db_functions' not found in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 3
+[29-Jun-2018 08:51:29 UTC] PHP Fatal error:  Uncaught Error: Class 'db_functions' not found in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 3
+[29-Jun-2018 08:53:41 UTC] PHP Fatal error:  Uncaught Error: Class 'db_functions' not found in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 3
+[12-Jul-2018 14:55:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 6
+[12-Jul-2018 14:55:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 6
+[12-Jul-2018 15:01:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 6
+[12-Jul-2018 15:02:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 9
+[12-Jul-2018 15:19:10 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 15:19:10 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 15:19:10 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 15:19:10 UTC] PHP Warning:  print_r(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 15:19:10 UTC] PHP Warning:  print_r(): Property access is not allowed yet in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 22:41:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 6
+[12-Jul-2018 22:42:36 UTC] PHP Warning:  mysqli_fetch_array(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 22:44:10 UTC] PHP Warning:  mysqli_num_rows(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 5
+[12-Jul-2018 22:44:10 UTC] PHP Warning:  mysqli_fetch_array(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 7
+[12-Jul-2018 22:48:47 UTC] PHP Warning:  mysqli_fetch_array(): Couldn't fetch mysqli_result in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 7
+[12-Jul-2018 22:51:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 7
+[12-Jul-2018 22:54:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, array given in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/paises.php on line 8
+[13-Jul-2018 00:07:36 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 41
+[13-Jul-2018 11:13:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:248
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/centros.php(8): DB_Functions->seleccionarTodosCentros('2, 3, 4')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 248
+[13-Jul-2018 11:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:248
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/centros.php(8): DB_Functions->seleccionarTodosCentros('2, 3, 4')
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 248
+[13-Jul-2018 12:01:58 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosCentros(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearProfesor.php on line 82 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 241
+[13-Jul-2018 12:22:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:34
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearCentro.php(50): DB_Functions->getPaises(NULL)
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 34
+[13-Jul-2018 12:25:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:34
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearCentro.php(50): DB_Functions->getPaises(NULL)
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 34
+[13-Jul-2018 12:30:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:34
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearCentro.php(50): DB_Functions->getPaises(NULL)
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 34
+[13-Jul-2018 12:30:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:34
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearCentro.php(50): DB_Functions->getPaises(NULL)
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 34
+[13-Jul-2018 12:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php:34
+Stack trace:
+#0 /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearCentro.php(50): DB_Functions->getPaises(NULL)
+#1 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 34
+[13-Jul-2018 13:48:48 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarCentro.php on line 40
+[13-Jul-2018 13:54:24 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosCentros(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php on line 83 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 251
+[13-Jul-2018 13:58:18 UTC] PHP Fatal error:  Uncaught Error: Array callback has to contain indices 0 and 1 in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php on line 53
+[13-Jul-2018 14:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method DB_Functions::getDatosCentroseleccionarTodosCentros() in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarProfesor.php on line 53
+[13-Jul-2018 14:56:17 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosProfesores(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearGrupo.php on line 51 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 457
+[13-Jul-2018 14:56:47 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosProfesores(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarGrupo.php on line 56 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 457
+[13-Jul-2018 14:58:22 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosProfesores(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearGrupo.php on line 51 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 457
+[13-Jul-2018 15:04:28 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosProfesores(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarGrupo.php on line 56 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 457
+[13-Jul-2018 15:16:43 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosGrupos(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/grupos.php on line 8 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 559
+[13-Jul-2018 15:17:08 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosGrupos(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/grupos.php on line 8 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 559
+[13-Jul-2018 15:27:46 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosProfesores(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarAlumno.php on line 56 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 459
+[13-Jul-2018 15:27:47 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosGrupos(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/modificarAlumno.php on line 72 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 561
+[13-Jul-2018 15:32:20 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosProfesores(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearAlumno.php on line 52 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 459
+[13-Jul-2018 15:32:20 UTC] PHP Warning:  Missing argument 1 for DB_Functions::seleccionarTodosGrupos(), called in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/pages/crearAlumno.php on line 66 and defined in /home/rlfhkymy/public_html/Q8adx5y2a4qyHqPu/services/db_functions.php on line 561
